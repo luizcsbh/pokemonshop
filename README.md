@@ -8,7 +8,7 @@
 [![last commit](https://img.shields.io/github/last-commit/luizcsbh/pokemonshop)](https://github.com/luizcsbh/pokemonshop/commits)
 [![CodeFactor](https://www.codefactor.io/repository/github/luizcsbh/pokemonshop/badge)](https://www.codefactor.io/repository/github/luizcsbh/pokemonshop)
 [![version](https://img.shields.io/github/package-json/v/luizcsbh/pokemonshop)](https://github.com/luizcsbh/pokemonshop/blob/master/package.json)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/614324d2-6302-40d3-aeae-e6a5f06d2c61/deploy-status)](https://app.netlify.com/sites/pokemonshop/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bfa56f10-66d4-40af-aaf6-3fe763b3a0df/deploy-status)](https://app.netlify.com/sites/pokemonshop/deploys)
 [![twwiter follow](https://img.shields.io/twitter/follow/luizcs?style=social)](https://twitter.com/luizcs)
 
 
