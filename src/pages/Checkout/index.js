@@ -22,7 +22,7 @@ function Chekout({data,total,clearCart,clearTotal}) {
               <div className="container-modal">
                 <header>Pedido Finalizado</header>
                 <section>
-                      Obrigado por comprar na PokeShop!
+                      Obrigado por comprar na Pokémons Shop!
                       <FcLike />
                 </section>
                 <Link to="/">Ir para o início</Link>
@@ -39,7 +39,7 @@ function Chekout({data,total,clearCart,clearTotal}) {
                 
               <div>
                 <Total>
-                      <h2 className="title">PokeShop</h2>
+                      <h2 className="title">Pokémons Shop</h2>
                       <div className="info">Quantidade: <span>{data.length}</span></div>
                       <div className="info">Total: <span>{total.formatedPrice}</span> </div>
                       <button onClick={finishBuy}>Finalizar Comprar</button>
