@@ -17,6 +17,7 @@ export const Main = styled.div`
         display:block;
         background:var(--theme-color-1);
         border:0;
+        border-radius: 15px 15px;
         color:white;
         height:40px;
         padding:0px 20px;
